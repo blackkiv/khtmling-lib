@@ -1,5 +1,5 @@
 # khtmling-lib
-kotlin implementation of best lib in this world
+kotlin implementation of the best lib in this world
 
 this lib is not fully java compatible, we have exception with private fields in class, i will fix that in future maybe :D
 
