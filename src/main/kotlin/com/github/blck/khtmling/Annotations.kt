@@ -23,5 +23,6 @@ annotation class HtmlStyle(
 annotation class HtmlProperty(
     val name: String = "",
     val tag: HtmlTag = HtmlTag.DIV,
-    val styles: Array<HtmlStyle> = []
+    val styles: Array<HtmlStyle> = [],
+    val classes: Array<String> = []
 )
